@@ -1,0 +1,20 @@
+{
+  "name": "University Student Community Support",
+  "threads": [
+    {
+      "thread_id": "wifi_001",
+      "topic": "Campus Library WiFi Access",
+      "context": "Question: How do I access campus WiFi in the library? Answer: Select 'Univ-Secure', use your full student email (user@univ.edu), and reset your password if locked out."
+    },
+    {
+      "thread_id": "override_001",
+      "topic": "CS Course Registration Override Forms",
+      "context": "Question: Where do we submit course registration override forms for the CS department? Answer: Override forms must be submitted directly to Room 302 in the Engineering Building before 5 PM on Fridays."
+    },
+    {
+      "thread_id": "tech_001",
+      "topic": "Campus Tech Support Desk Location",
+      "context": "Question: Where is the campus tech support desk located? Answer: The IT Help Desk is located on the 1st floor of the Student Union, right next to the bookstore. Open Monday–Friday, 8 AM to 6 PM."
+    }
+  ]
+}

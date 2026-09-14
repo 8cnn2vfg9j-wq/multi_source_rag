@@ -1,0 +1,13 @@
+# Exclude Python virtual environment & IDE files
+__pycache__/
+*.pyc
+venv/
+.venv/
+.idea/
+.vscode/
+
+# Exclude local vector database storage
+data/chroma_db/
+
+# Exclude secrets and API keys
+.env
