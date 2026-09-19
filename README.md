@@ -22,15 +22,18 @@ By identifying the actual audience experiencing these problems, we can see clear
     - Maintenance invoices, utility bills
 - Optimize the software for specific documents types using OCR, VLM and if time constraint allows - make the Hybrid.
 
-## Team 2
+## Team
+
+**Team 2**
+
 ### Team members
 6 members: 
-* 12230270 - Dilnozakhon
-* 12230336 - Jasmina
-* 12235569 - Shukarna
-* 12235639 - Ozodbek
-* 12235608 - Daesan
-* 12240340 - Tselmuun
+* 12230270 - IBT - Dilnozakhon 
+* 12230336 - IBT - Jasmina
+* 12235569 - IBT - Shukarna
+* 12235639 - ISE - Ozodbek
+* 12235608 - ISE - Daesan
+* 12240340 - ISE - Tselmuun
 
 ### Team Roles & Responsibilities
 <img width="2460" height="830" alt="Role-Sheet" src="https://github.com/user-attachments/assets/ac4f0eac-29b0-491c-8f38-b7d1504ad06b" />
@@ -41,3 +44,11 @@ By identifying the actual audience experiencing these problems, we can see clear
 3. C2b - Video Translation and Dubbing - Team 1
 4. S1 - Case Study and Portfolio Generator - Team 5
 5. S2 - Personalized Learning Roadmap - Team 3
+
+# FRD Section
+
+| Requirement ID | Related DoD | Tier | Description |
+|---|---|---|---|
+| FR-01 | DoD-01 | Baseline | The system shall extract text from real-estate documents. |
+| FR-02 | DoD-02 | Baseline | The system shall process documents containing tables. |
+| FR-03 | DoD-03 | Target | The system shall process handwritten content. |
