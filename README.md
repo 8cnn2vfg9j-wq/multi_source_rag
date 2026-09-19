@@ -49,6 +49,8 @@ By identifying the actual audience experiencing these problems, we can see clear
 
 | Requirement ID | Related DoD | Tier | Description |
 |---|---|---|---|
-| FR-01 | DoD-01 | Baseline | The system shall extract text from real-estate documents. |
-| FR-02 | DoD-02 | Baseline | The system shall process documents containing tables. |
-| FR-03 | DoD-03 | Target | The system shall process handwritten content. |
+| FR-01 | DoD-01 | Baseline | Extracts specified fields, answers questions about them. |
+| FR-02 | DoD-02 | Baseline | System should process documents containing tables. |
+| FR-03 | DoD-03 | Baseline | System should process handwritten documents. |
+| FR-04 | DoD-04 | Target | Accuracy report per document types. |
+
