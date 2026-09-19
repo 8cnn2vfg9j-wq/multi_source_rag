@@ -47,10 +47,10 @@ By identifying the actual audience experiencing these problems, we can see clear
 
 # FRD Section
 
-| Requirement ID | Related DoD | Tier | Description |
+| Requirement ID | Related DoD | Tier | Description | Check Method | Questions |
 |---|---|---|---|
-| FR-01 | DoD-01 | Baseline | Extracts specified fields, answers questions about them. |
-| FR-02 | DoD-02 | Baseline | System should process documents containing tables. |
-| FR-03 | DoD-03 | Baseline | System should process handwritten documents. |
-| FR-04 | DoD-04 | Target | Accuracy report per document types. |
+| FR-01 | DoD-01 | Baseline | Extracts specified fields, answers questions about them. | Select fields & ask related question | |
+| FR-02 | DoD-02 | Baseline | System should process documents containing tables. | Take invoices and ask relational questions to see if it sees relations | |
+| FR-03 | DoD-03 | Baseline | System should process handwritten documents. | | |
+| FR-04 | DoD-04 | Target | Accuracy report per document types. | We will check on ground checked datasets | |
 
