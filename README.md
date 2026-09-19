@@ -46,11 +46,10 @@ By identifying the actual audience experiencing these problems, we can see clear
 5. S2 - Personalized Learning Roadmap - Team 3
 
 # FRD Section
-
 | Requirement ID | Related DoD | Tier | Description | Check Method | Questions |
-|---|---|---|---|
-| FR-01 | DoD-01 | Baseline | Extracts specified fields, answers questions about them. | Select fields & ask related question | |
-| FR-02 | DoD-02 | Baseline | System should process documents containing tables. | Take invoices and ask relational questions to see if it sees relations | |
-| FR-03 | DoD-03 | Baseline | System should process handwritten documents. | | |
-| FR-04 | DoD-04 | Target | Accuracy report per document types. | We will check on ground checked datasets | |
+|---|---|---|---|---|---|
+| FR-01 | DoD-01 | Baseline | The system shall extract specified fields from document images and answer questions about the extracted information. | Select predefined fields and ask questions related to those fields. | |
+| FR-02 | DoD-02 | Baseline | The system shall process documents containing tables and correctly identify relationships between information in the table. | Test invoices and other table-containing documents with predefined questions about relationships between table fields. | |
+| FR-03 | DoD-03 | Baseline | The system shall process documents containing handwritten content and extract or answer questions about the handwritten information. | Test handwritten documents using predefined fields and questions. | |
+| FR-04 | DoD-04 | Target | The system shall provide an accuracy report broken down by document type. | Compare system outputs against hand-checked ground-truth datasets and calculate accuracy for each document type. | |
 
