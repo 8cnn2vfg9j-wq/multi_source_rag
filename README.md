@@ -35,7 +35,7 @@ By identifying the actual audience experiencing these problems, we can see clear
 ### Team Roles & Responsibilities
 <img width="2460" height="830" alt="Role-Sheet" src="https://github.com/user-attachments/assets/ac4f0eac-29b0-491c-8f38-b7d1504ad06b" />
 
-### Presentation Performance Sequence
+### Presentation Order
 1. N2 - Code-Switched Voice Agent - Team 4
 2. **C1 - Visual Document Understanding - Team 2**
 3. C2b - Video Translation and Dubbing - Team 1
