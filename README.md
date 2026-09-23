@@ -68,4 +68,13 @@ Level 2
 | FR-04 | DoD-04 | Target | Accuracy report per document type. | We will check against ground-checked datasets. | |
 
 ### Test plan
-abc
+
+**Success criteria**
+* Meet the baseline and target DoD requirements.
+- Process the selected document types for above 80% accuracy.
+      * ~30 documents covering plain text, tables, charts, handwriting, and different formatting.
+- Identify and categorize pipeline failures.
+
+**We should be able to answer for these questions:**
+- if we put X document type, what pipeline does it the best?
+- what makes the inefficient pipeline - inefficient?
