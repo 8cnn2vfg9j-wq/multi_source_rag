@@ -51,6 +51,7 @@ By identifying the actual audience experiencing these problems, we can see clear
 
 ### C4 Model
 Level 1
+<img width="822" height="311" alt="Team2_VDU_C1" src="https://github.com/user-attachments/assets/19168cec-2a32-40ee-9e03-60447334aeee" />
 
 Level 2
 
