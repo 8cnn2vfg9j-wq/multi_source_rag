@@ -56,20 +56,27 @@ Level 1
 
 Level 2
 
+<img width="1170" height="2080" alt="이미지" src="https://github.com/user-attachments/assets/d10c4c6a-e06d-413a-a66e-6ae1aaf38fab" />
+
 ### Data Source
 Document Types
 | Document Type | What We Test |
 |---|---| 
 | Rental contract | Text + layout + relationships | 
-| Receipt | Text + numbers + tables | 
-| Bank transfer record | Names + dates + amounts | 
-| Property information sheet | Tables + structured fields | 
-| Handwritten customer note | Handwriting recognition |
+| Receipt | Text + tables | 
+| Bank transfer record | Text + relationships | 
+| Property information  | Text + tables + relationships | 
+| Handwritten notes | Handwriting |
+| Hybrid | Text + handwriting |
 
 Potential Dataset Sources
 - SROIE - https://www.kaggle.com/datasets/urbikn/sroie-datasetv2
 - FUNSD - https://benlee73.tistory.com/21
 - AI hub Korean handwriting Dataset - https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=81
+- Actual document template with generated data / manually written (several samples)
+
+Difficulty
+- Finding enough datasets on Korean Language for similar documents that Real Estate Agencies rely on. 
 
 ### FRD
 | Requirement ID | Related DoD | Tier | Description | Check Method | Questions |
@@ -83,9 +90,12 @@ Potential Dataset Sources
 
 **Success criteria**
 * Meet the baseline and target DoD requirements.
-- Process the selected document types for above 80% accuracy.
-      * ~30 documents covering plain text, tables, charts, handwriting, and different formatting.
+- Process the selected document types for above 80% accuracy. 
 - Identify and categorize pipeline failures.
+
+**Test method**
+<img width="1170" height="2080" alt="이미지" src="https://github.com/user-attachments/assets/10b96c12-e020-4940-b0a4-0a0930376727" />
+- Upload 30 documents covering plain text, tables, charts, handwriting, and different formatting.
 
 **We should be able to answer for these questions:**
 - if we put X document type, what pipeline does it the best?
