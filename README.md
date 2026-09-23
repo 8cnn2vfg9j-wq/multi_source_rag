@@ -58,6 +58,9 @@ Level 2
 
 <img width="1170" height="2080" alt="이미지" src="https://github.com/user-attachments/assets/d10c4c6a-e06d-413a-a66e-6ae1aaf38fab" />
 
+<img width="872" height="1052" alt="Team2_VDU_C2" src="https://github.com/user-attachments/assets/a2c3e3d3-cf56-42b5-97d8-e6be8e9230b3" />
+
+
 ### Data Source
 Document Types
 | Document Type | What We Test |
