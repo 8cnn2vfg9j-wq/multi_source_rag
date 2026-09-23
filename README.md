@@ -94,7 +94,6 @@ Difficulty
 - Identify and categorize pipeline failures.
 
 **Test method**
-<img width="1170" height="2080" alt="이미지" src="https://github.com/user-attachments/assets/10b96c12-e020-4940-b0a4-0a0930376727" />
 - Upload 30 documents covering plain text, tables, charts, handwriting, and different formatting.
 
 **We should be able to answer for these questions:**
