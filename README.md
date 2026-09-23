@@ -57,7 +57,19 @@ Level 1
 Level 2
 
 ### Data Source
+Document Types
+| Document Type | What We Test |
+|---|---| 
+| Rental contract | Text + layout + relationships | 
+| Receipt | Text + numbers + tables | 
+| Bank transfer record | Names + dates + amounts | 
+| Property information sheet | Tables + structured fields | 
+| Handwritten customer note | Handwriting recognition |
 
+Potential Dataset Sources
+- SROIE - https://www.kaggle.com/datasets/urbikn/sroie-datasetv2
+- FUNSD - https://benlee73.tistory.com/21
+- AI hub Korean handwriting Dataset - https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=81
 
 ### FRD
 | Requirement ID | Related DoD | Tier | Description | Check Method | Questions |
