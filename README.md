@@ -45,10 +45,25 @@ By identifying the actual audience experiencing these problems, we can see clear
 4. S1 - Case Study and Portfolio Generator - Team 5
 5. S2 - Personalized Learning Roadmap - Team 3
 
-# FRD Section
+---
+
+## Architecture & Technical Spec-s
+
+### C4 Model
+Level 1
+
+Level 2
+
+### Data Source
+
+
+### FRD
 | Requirement ID | Related DoD | Tier | Description | Check Method | Questions |
 |---|---|---|---|---|---|
 | FR-01 | DoD-01 | Baseline | Extracts specified fields from document images, or answers questions about them. | Select fields & ask related questions. | |
 | FR-02 | DoD-02 | Baseline | System should process documents containing tables. | Take invoices and ask relational questions to see if it sees the relations. | |
 | FR-03 | DoD-03 | Baseline | System should process handwritten documents. | Test handwritten documents and check if it extracts the information correctly. | |
 | FR-04 | DoD-04 | Target | Accuracy report per document type. | We will check against ground-checked datasets. | |
+
+### Test plan
+abc
