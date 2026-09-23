@@ -33,7 +33,7 @@ By identifying the actual audience experiencing these problems, we can see clear
 * 12235569 - IBT - Shukarna
 * 12235639 - ISE - Ozodbek
 * 12235608 - ISE - Daesan
-* 12240340 - ISE - Tselmuun
+* 12230340 - ISE - Tselmuun
 
 ### Team Roles & Responsibilities
 <img width="2460" height="830" alt="Role-Sheet" src="https://github.com/user-attachments/assets/ac4f0eac-29b0-491c-8f38-b7d1504ad06b" />
